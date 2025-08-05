@@ -44,10 +44,10 @@ This repository contains a complete, concise, and example‑driven guide to core
 - Pandas (Series, DataFrame, filtering, description)  
 - Matplotlib (line plot, bar chart, pie chart)
 
-###Acknowledgement
+### Acknowledgement
 I would like to extend my heartfelt thanks to Kamal Sir, the Trainer and Managing Director of Vihara Tech, for his expert guidance, constant support, and inspiration throughout my learning journey. This project is a reflection of the knowledge and skills imparted under his mentorship.
 
-###AUTHOR
+### AUTHOR
 K.YAMINI KRISHNA
 yamini.kelam1@gmail.com
 
