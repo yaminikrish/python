@@ -1,6 +1,6 @@
-# 📚 Python Concepts with Examples
+# 📚 PYTHON END TO END
 
-This repository contains a complete, concise, and example‑driven guide to core **Python programming concepts**, designed for beginners and intermediate learners. Each concept is explained with at least **5 examples**, covering everything from foundational basics to advanced topics.
+This repository contains a complete, concise, and example‑driven guide to core **Python programming concepts**, designed for beginners and intermediate learners. Each concept is explained with  ** examples**, covering everything from foundational basics to advanced topics.
 
 ---
 
@@ -44,7 +44,7 @@ This repository contains a complete, concise, and example‑driven guide to core
 - Pandas (Series, DataFrame, filtering, description)  
 - Matplotlib (line plot, bar chart, pie chart)
 
-###🙏 Acknowledgement
+###Acknowledgement
 I would like to extend my heartfelt thanks to Kamal Sir, the Trainer and Managing Director of Vihara Tech, for his expert guidance, constant support, and inspiration throughout my learning journey. This project is a reflection of the knowledge and skills imparted under his mentorship.
 
 ###AUTHOR
